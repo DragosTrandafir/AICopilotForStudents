@@ -67,3 +67,9 @@ We systematically evaluated 10 different prompt templates (Baseline, Role, Safet
     - Winning Prompt: The "Reflective" template.
 
     - Performance: Achieved the best balance of Faithfulness (accuracy to source) and Relevancy (addressing student concerns).
+
+
+
+!!! This tool is an AI assistant and not a replacement for professional medical advice, diagnosis, or treatment. If you or someone you know is in immediate distress, please contact the National Suicide Prevention Lifeline or professional emergency services.
+
+For more details, here is a PowerPoint presentation: 
