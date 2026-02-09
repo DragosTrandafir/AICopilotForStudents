@@ -40,6 +40,8 @@ This project requires **LM Studio** to host the models locally:
 ### 2. Installation
 First, clone the repository to your machine, then install the necessary libraries:
 
+pip install pypdf pymupdf langchain langchain-community langchain-openai chromadb requests gradio ragas datasets scikit-learn
+
 ### How to Run
 
 1. Prepare Data: Ensure your PDF resources are located in the database_pdfs/ folder as referenced in the notebook.
@@ -58,7 +60,4 @@ First, clone the repository to your machine, then install the necessary librarie
 
         * Prompt Engineering evaluation.
 
-4. Tutorial: For help running a Jupyter project, see this video tutorial.
 
-```bash
-pip install pypdf pymupdf langchain langchain-community langchain-openai chromadb requests gradio ragas datasets scikit-learn
