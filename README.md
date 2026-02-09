@@ -1,6 +1,6 @@
 # 🧠 The AI Psychologists: Mental Wellness Copilot
 
-Developed in collaboration with [@paulpop30](https://github.com/paulpop30), [@rsilaghi](https://github.com/rsilaghi), and [@AlexResiga](https://github.com/AlexResiga), this project is a private, **RAG-based (Retrieval-Augmented Generation)** assistant designed to provide students with safe, grounded, and evidence-based mental health support.
+Developed in collaboration with [@paulpop30](https://github.com/paulpop30), [@rsilaghi](https://github.com/rsilaghi) and [@AlexResiga](https://github.com/noobprogrammerv), this project is a private, **RAG-based (Retrieval-Augmented Generation)** assistant designed to provide students with safe, grounded, and evidence-based mental health support.
 
 By leveraging curated resources from the **National Institute of Mental Health (NIMH)** and other student-focused organizations, the Copilot provides reliable answers to psychological and emotional queries while ensuring privacy through local execution.
 
