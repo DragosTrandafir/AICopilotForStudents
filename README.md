@@ -72,4 +72,4 @@ We systematically evaluated 10 different prompt templates (Baseline, Role, Safet
 
 !!! This tool is an AI assistant and not a replacement for professional medical advice, diagnosis, or treatment. If you or someone you know is in immediate distress, please contact the National Suicide Prevention Lifeline or professional emergency services.
 
-For more details, here is a PowerPoint presentation: 
+For more details, here is a PowerPoint presentation: [Presentation(1).pptx](https://github.com/user-attachments/files/20861454/Presentation.1.pptx)
