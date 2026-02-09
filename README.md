@@ -60,4 +60,10 @@ pip install pypdf pymupdf langchain langchain-community langchain-openai chromad
 
         * Prompt Engineering evaluation.
 
+### Evaluation & Prompt Engineering
 
+We systematically evaluated 10 different prompt templates (Baseline, Role, Safety, Empathy, etc.) using the Ragas framework.
+
+    - Winning Prompt: The "Reflective" template.
+
+    - Performance: Achieved the best balance of Faithfulness (accuracy to source) and Relevancy (addressing student concerns).
